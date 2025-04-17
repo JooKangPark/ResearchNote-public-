@@ -1,6 +1,8 @@
 작성자: 박주강<br>
 갱신:2025-04-17<br>
-준비물: HID, 여권 사본, 지도교수님 확인<br>
+준비물: HID(학과장님 사인 필요), 여권사본, 지도교수님 확인<br>
+여권사본은 PDF 형식으로, 가운데 혹은 좌상단에 정방향으로 스캔되어야 한다<br>
+
 KCMS 의 [Remote Participation](https://www.cms-kr.org/?page_id=681)를 보고 수행했다<br>
 # 1. [CMS 등록 링크](https://cms.cern.ch/iCMS/user/registration)로 들어간다.
 HID([2024년 버전](https://usersoffice.web.cern.ch/sites/default/files/HomeInstitutionDeclaration2024.pdf)), 여권사본 및 담당교수 승인이 필요하다. <br>
@@ -16,7 +18,7 @@ Activity: CMS 실험에서 참여할 Servicework. 지도교수님과 team leader
 # 3. CERN에서 온 메일을 확인한다.
 FORM 작성 후 영업일 1~3일 안으로 메일이 왔었다. <br>
 ![pass](/Registration_CERN_guide/image/02_att_file.png)
-메일 링크로 여권 사본을 등록하고, 준비한 HID 파일을 제출한다. <br>
+메일 링크로 여권 사본을 등록하고, 준비한 HID 파일 및 여권 파일을 제출한다. <br>
 그 뒤, 메일의 step2 Link 로 들어가 form 을 다 입력한다.  <br>
 ![form](/Registration_CERN_guide/image/03_form_two.png)
 your registration form will be sent to the Institute representative of your institute () 를 확인하면 성공<br>

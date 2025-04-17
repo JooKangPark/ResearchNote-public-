@@ -33,5 +33,6 @@ your registration form will be sent to the Institute representative of your inst
 ![wizard](/Registration_CERN_guide/image/06_wizard_detail.png)
 `http://cern.ch/wizard` 에 들어가 개인정보 확인 및 비밀번호, EDH 비밀번호 수정을 마친 후(CERN에서 임시 Password, EHD 메일을 따로 보낸다) 반드시
 **Sign Security & Computing** 을 반드시 계정 생성 5일 안에 완료해야 계정이 비활성화가 되지 않음.<br>
-wizard 에서 확인이 되지 않으면 lms.cern.ch 로 들어가 MANDATORY COURSE를 눌러 직접 수강한 뒤, quiz(시도회수 무제한, 100점시 통과) 와 보안 서약을 마친다.<br>
+wizard 에서 보안교육으로 넘어가지 않을 경우(wizard link의 enrollment 에서 넘어가지 않는 경우가 있다) lms.cern.ch 로 들어가 MANDATORY COURSE를 눌러 직접 수강한다.<br>
+이후 lms에서 quiz(시도회수 무제한, 100점시 통과) 와 보안 서약을 마친다.<br>
 그 후 1~3시간을 대기한 후, https://account.cern.ch/account/CERNAccount/ 를 확인해 계정이 활성화되었음을 확인하면 성공<br>

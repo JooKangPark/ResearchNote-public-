@@ -1,3 +1,5 @@
+작성자: 박주강<br>
+갱신:2025-04-17<br>
 준비물: HID, 여권 사본, 지도교수님 확인<br>
 KCMS 의 [Remote Participation](https://www.cms-kr.org/?page_id=681)를 보고 수행했다<br>
 # 1. [CMS 등록 링크](https://cms.cern.ch/iCMS/user/registration)로 들어간다.
